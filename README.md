@@ -18,7 +18,4 @@ Also in the creation of personal projects, in addition to a strong theoretical b
 
 ## Jogos que fiz no Scratch
 
-[LINK PARA BIBLIOTECA DE JOGOS](https://scratch.mit.edu/users/GustavoRickli/projects/)
-
-
-<script src='https://cdn.jsdelivr.net/gh/eddymens/markdown-external-link-script@v2.0.0/main.min.js'></script>
+<a href="https://scratch.mit.edu/users/GustavoRickli/projects/" target="_blank"> <button>LINK PARA BIBLIOTECA DE JOGOS</button> </a>
