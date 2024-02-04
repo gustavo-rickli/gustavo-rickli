@@ -16,8 +16,6 @@ Also in the creation of personal projects, in addition to a strong theoretical b
 <hr>
 <br>
 
-## Início
+## Jogos que fiz no Scratch
 
-Comecei a aprender a Programar com Portugol, e Scratch, veja alguns de meus projetos
-
-<iframe src="https://scratch.mit.edu/projects/495089941/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+[LINK PARA BIBLIOTECA DE JOGOS](https://scratch.mit.edu/users/GustavoRickli/projects/)
