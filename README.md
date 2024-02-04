@@ -18,4 +18,4 @@ Also in the creation of personal projects, in addition to a strong theoretical b
 
 ## Jogos que fiz no Scratch
 
-<a href="https://scratch.mit.edu/users/GustavoRickli/projects/" target="_blank"> <button>LINK PARA BIBLIOTECA DE JOGOS</button> </a>
+<button> <a href="https://scratch.mit.edu/users/GustavoRickli/projects/" target="_blank"> LINK PARA BIBLIOTECA DE JOGOS </a> </button>
